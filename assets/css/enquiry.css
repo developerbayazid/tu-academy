@@ -1,0 +1,53 @@
+.tu-academy-enquiry-form {
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px 50px;
+    background-color: #f1f1f1;
+}
+.tu-academy-enquiry-form .form-title {
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 30px 0;
+}
+.form-row {
+    margin-bottom: 19px;
+}
+.form-row label {
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.form-row input,
+.form-row label {
+    display: block;
+}
+
+.form-row input,
+.form-row textarea {
+    width: 100%;
+    padding: 10px 15px;
+    border: 0px;
+    background-color: #fff;
+}
+.form-row input:focus,
+.form-row textarea:focus {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    outline: none;
+}
+.form-row [type="submit"] {
+    background-color: #ea1a70;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    border: 1px solid #ea1a70;
+    display: inline-block;
+    transition: 0.2s;
+}
+
+.form-row [type="submit"]:hover {
+    background-color: #fff;
+    border: 1px solid #ea1a70;
+    color: #ea1a70;
+}

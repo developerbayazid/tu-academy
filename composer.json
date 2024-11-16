@@ -1,0 +1,22 @@
+{
+    "name": "bayazid2024/tu-academy",
+    "version": "1.0.0",
+    "description": "Tu Academy Plugin",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Tu\\Academy\\": "includes/"
+        },
+        "files": [ "includes/functions.php" ]
+    },
+    "authors": [
+        {
+            "name": "developerbayazid",
+            "email": "bayazid.freelancer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "config": {}
+   
+}
