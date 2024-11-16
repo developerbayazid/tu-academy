@@ -1,4 +1,4 @@
-# ![TU Academy Icon](./assets/icon.png) TU Academy
+# TU Academy WP Plugin
 
 **TU Academy** is a WordPress plugin that provides an address book management system with advanced features such as caching and REST API support. It is ideal for developers and users looking for a reliable, high-performance solution for managing contacts directly within WordPress.
 
